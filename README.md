@@ -17,4 +17,4 @@
 
 ## Demo
 
-This project is live (here)[https://binayabaral.github.com/lf-js-exercise-4-carousel]
+This project is live [here](https://binayabaral.github.com/lf-js-exercise-4-carousel)
